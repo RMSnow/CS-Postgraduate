@@ -1,7 +1,5 @@
 ## 保研夏令营
 
----
-
 ### 清华大学
 
 #### 2018 
@@ -186,17 +184,3 @@
 - 2017香港中文大学（CUHK）工程学院夏令营遴选报名开始（截止日期4月24日）
   http://www.eeban.com/thread-1988-1-1.html
   (出处: 保研论坛-保研经验分享)
-
----
-
-## 比赛
-
-### CCF CSP 认证
-
-- 第十三次CCF CSP认证将于**2018年3月18日**举办，CSP报名系统将于2月份开放，具体时间待定。准备参加报名认证的同学，若还没有CSP报名系统的登录名和密码，须登陆cspro.org网站，点击网站左下方“个人报名注册”，注册（注册答疑点击[链接](http://cspro.org/lead/info.do?__action=info_view&catalog=notice&id=j32bwxl2-hdbn1&__forward=true)）成功后，等报名系统开放就可直接报名。
-- [**CCF软件能力认证标准**](http://www.cspro.org/lead/info.do?__action=info_view&catalog=notice&id=hsyfsb9v-8yx&__forward=true).
-
-### POJ
-
-- [PKU JudgeOnline](http://poj.org/)
-
