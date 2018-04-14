@@ -1,4 +1,4 @@
-# 保研夏令营
+# CS-Related 研究生夏令营
 
 ## Overview
 
