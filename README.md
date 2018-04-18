@@ -1,8 +1,10 @@
-# 保研夏令营
+# CS-Related 研究生夏令营
 
 ## Overview
 
 ### 2018
+
+[2018高校保研夏令营招生信息汇总（更新中）](http://www.eeban.com/forum.php?mod=viewthread&tid=29212&page=1&extra=&_dsign=3bb988c3)
 
 |   学校   |  学院/实验室   |  报名时间   |   活动时间   |
 | :----: | :-------: | :-----: | :------: |
