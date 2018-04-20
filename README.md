@@ -2,14 +2,28 @@
 
 ## Overview
 
+### Websites
+
+- [保研论坛](http://www.eeban.com/).
+
+- [中国研究生招生信息网](http://yz.chsi.com.cn/).
+
+- [中国高等教育学生信息网（学信网）](http://www.chsi.com.cn/).
+
+- [CSRankings: Computer Science Rankings](http://csrankings.org/#/fromyear/2007/toyear/2018/index?all).
+
+  > CSRankings is a metrics-based ranking of top computer science institutions around the world.
+
 ### 2018
 
 [2018高校保研夏令营招生信息汇总（更新中）](http://www.eeban.com/forum.php?mod=viewthread&tid=29212&page=1&extra=&_dsign=3bb988c3)
 
-|   学校   |  学院/实验室   |  报名时间   |   活动时间   |
-| :----: | :-------: | :-----: | :------: |
-|  南京大学  | Lamda 实验室 | 5月20日之前 |    6月    |
-| 香港中文大学 |    工学院    | 4月23日之前 | 7月9日-13日 |
+|     学校     |                         学院/实验室                          | 报名截止时间 | 活动时间（月） |
+| :----------: | :----------------------------------------------------------: | :----------: | :------------: |
+|   南京大学   | [Lamda 实验室](https://cs.nju.edu.cn/zhouzh/zhouzh.files/recruit.htm) |   5月20日    |      6月       |
+| 香港中文大学 |           [工学院](http://hkpfs.erg.cuhk.edu.hk/)            |   4月23日    |  7月9日-13日   |
+|   清华大学   | [伯克利深圳学院](http://www.tbsi.edu.cn/index.php?s=/cms/804.html) | 6月5日/18日  | 6月30日-7月3日 |
+|              | [交叉信息研究院](http://admission.iiis.tsinghua.edu.cn/2018/) |   5月15日    |  6月9日-10日   |
 
 ### 2017
 
@@ -48,6 +62,33 @@
 ## 清华大学
 
 ### 2018 
+
+#### 清华-伯克利深圳学院
+
+- [**清华-伯克利深圳学院2018年暑期夏令营招募通知**](http://www.tbsi.edu.cn/index.php?s=/cms/804.html).
+
+- 活动安排
+
+  时间：2018年6月30日-7月3日
+
+  地点：深圳市南山智园C3及其他相关地点
+
+  官方语言：英文
+
+- 报名时间
+
+  - 第一批次：2018年6月5日上午12:00前
+  - 第二批次：2018年6月18日上午12:00前
+
+#### 交叉信息学院
+
+- 官网：http://admission.iiis.tsinghua.edu.cn/2018/
+- 活动时间
+  - 6月2-3日为物理夏令营
+  - 6月9-10日为计算机科学与技术夏令营
+- 报名时间
+  - 物理学科夏令营报名时间：2018年4月12日0点至5月10日24点
+  - 计算机学科夏令营报名时间：2018年4月12日0点至5月15日24点
 
 ### 2017
 
