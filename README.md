@@ -24,6 +24,7 @@
 | 香港中文大学 |           [工学院](http://hkpfs.erg.cuhk.edu.hk/)            |   4月23日    |  7月9日-13日   |
 |   清华大学   | [伯克利深圳学院](http://www.tbsi.edu.cn/index.php?s=/cms/804.html) | 6月5日/18日  | 6月30日-7月3日 |
 |              | [交叉信息研究院](http://admission.iiis.tsinghua.edu.cn/2018/) |   5月15日    |  6月9日-10日   |
+| 北京大学 | [前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=595) | 6月6日 | 7月10日-13日 |
 
 ### 2017
 
