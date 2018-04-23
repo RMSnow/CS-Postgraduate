@@ -36,7 +36,7 @@
 |                  | [网络运行与管理技术研究室](http://www.eeban.com/thread-2017-1-1.html) |       特殊        |           特殊            |                                                              |
 |     北京大学     |                      信息科学与技术学院                      |        无         |            无             |                                                              |
 |                  | [软件与微电子学院]((http://www.ss.pku.edu.cn/index.php/admission/admnotice/3277-%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E4%B8%8E%E5%BE%AE%E7%94%B5%E5%AD%90%E5%AD%A6%E9%99%A2%E5%85%B3%E4%BA%8E%E4%B8%BE%E5%8A%9E2017%E5%B9%B4%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%80%E7%BA%A7%E5%AD%A6%E7%A7%91%E4%BC%98%E7%A7%80%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A4%8F%E4%BB%A4%E8%90%A5%E7%9A%84%E9%80%9A%E7%9F%A5)) |      5月26日      |       7月10日-12日        |                                                              |
-|                  | [前沿交叉学科研究院-大数据科学研究中心](http://www.bibdr.org/nd.jsp?id=84#_np=2_370) |      4月21日      |        7月4日-6日         | [已通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=595) |
+|                  | [前沿交叉学科研究院<br />大数据科学研究中心](http://www.bibdr.org/nd.jsp?id=84#_np=2_370) |      4月21日      |        7月4日-6日         | [已通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=595) |
 |                  | [深圳研究院](http://www.ece.pku.edu.cn/admissions/admission/) |      4月28日      |           缺失            |                                                              |
 |   上海交通大学   |                      计算机科学与工程系                      |        无         |            无             |                                                              |
 |                  |                       网络空间安全学院                       |        无         |            无             |                                                              |
@@ -51,7 +51,7 @@
 |                  | [软件学院](http://www.cst.zju.edu.cn/index.php?c=Index&a=detail&catid=16&id=2679) | 5月19日（2015年） |   8月6日-8日（2015年）    |                                                              |
 |     南京大学     | [计算机科学与技术系](https://grawww.nju.edu.cn/0a/13/c910a199187/page.htm) |      5月2日       |       7月14日-16日        |                                                              |
 |                  | [软件学院](http://software.nju.edu.cn/index.php?option=com_content&view=article&id=397:2017&catid=66:gfy&Itemid=12) |      5月8日       |        7月3日-4日         |                                                              |
-|     复旦大学     | [计算机科学技术学院 & 软件学院](http://www.cs.fudan.edu.cn/?p=21456) |      5月5日       |       7月3日-7月7日       |                                                              |
+|     复旦大学     | [计算机科学技术学院<br />软件学院](http://www.cs.fudan.edu.cn/?p=21456) |      5月5日       |       7月3日-7月7日       |                                                              |
 |                  |     [大数据学院](http://www.sds.fudan.edu.cn/wp/?p=670)      |      4月21日      |       7月10日-14日        | **延期**                                                     |
 | 中国科学技术大学 |    [信息学院](http://www.eeban.com/thread-9049-1-1.html)     |      4月27日      |       7月10日-12日        |                                                              |
 |     中山大学     | [数据科学与计算机学院](http://sdcs.sysu.edu.cn/content/2963) |      5月9日       |        7月9日-15日        |                                                              |
