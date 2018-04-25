@@ -25,6 +25,7 @@
 |   清华大学   | [伯克利深圳学院](http://www.tbsi.edu.cn/index.php?s=/cms/804.html) | 6月5日/18日  | 6月30日-7月3日 |
 |              | [交叉信息研究院](http://admission.iiis.tsinghua.edu.cn/2018/) |   5月15日    |  6月9日-10日   |
 | 北京大学 | [前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=595) | 6月6日 | 7月10日-13日 |
+| 中国科学院 | [沈阳计算机技术研究所](http://www.eeban.com/forum.php?mod=viewthread&tid=36581&extra=page%3D1&_dsign=c8518f9e) | 6月30日 | 7月16日-20日 |
 
 ### 2017
 
