@@ -65,7 +65,7 @@
 |     南京大学     | [计算机科学与技术系](https://grawww.nju.edu.cn/0a/13/c910a199187/page.htm) |      5月2日       |       7月14日-16日        |                                                              |
 |                  | [软件学院](http://software.nju.edu.cn/index.php?option=com_content&view=article&id=397:2017&catid=66:gfy&Itemid=12) |      5月8日       |        7月3日-4日         |                                                              |
 |     复旦大学     | [计算机科学技术学院<br />软件学院](http://www.cs.fudan.edu.cn/?p=21456) |      5月5日       |       7月3日-7月7日       |                                                              |
-|                  |     [大数据学院](http://www.sds.fudan.edu.cn/wp/?p=670)      |      4月21日      |       7月10日-14日        |       [已通知][http://www.sds.fudan.edu.cn/wp/?p=1776]       |
+|                  |     [大数据学院](http://www.sds.fudan.edu.cn/wp/?p=670)      |      4月21日      |       7月10日-14日        |       [已通知](http://www.sds.fudan.edu.cn/wp/?p=1776)       |
 | 中国科学技术大学 |    [信息学院](http://www.eeban.com/thread-9049-1-1.html)     |      4月27日      |       7月10日-12日        |                           **延期**                           |
 |     中山大学     | [数据科学与计算机学院](http://sdcs.sysu.edu.cn/content/2963) |      5月9日       |        7月9日-15日        |                                                              |
 | 北京航空航天大学 |                          计算机学院                          |        无         |            无             |                              -                               |
