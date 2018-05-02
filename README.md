@@ -36,7 +36,7 @@
 |  | [信息工程学院（深圳）](http://www.ece.pku.edu.cn/2018/anotice_0430/2155.html) | 6月10日 | 7月18日-21日 |
 | 中国科学院 | [沈阳计算机技术研究所](http://www.eeban.com/forum.php?mod=viewthread&tid=36581&extra=page%3D1&_dsign=c8518f9e) | 6月30日 | 7月16日-20日 |
 |  | [计算机网络信息中心](http://www.cnic.cas.cn/yjsjy/tzgg/201804/t20180423_5000655.html) | 6月22日 | 7月16日-20日 |
-| 复旦大学 | [大数据学院][http://www.sds.fudan.edu.cn/wp/?p=1776] | 6月15日 | 7月8日-12日 |
+| 复旦大学 | [大数据学院](http://www.sds.fudan.edu.cn/wp/?p=1776) | 6月15日 | 7月8日-12日 |
 | 中国科学技术大学 | [科学岛夏令营](http://www.eeban.com/forum.php?mod=viewthread&tid=36363&extra=page%3D1&_dsign=0633f48b) | - | - |
 
 ### 2017
