@@ -34,6 +34,7 @@
 | | [深圳研究院-自动化学科](http://219.223.190.43/publish/sz/293/2018/20180427105015415645904/20180427105015415645904_.html) | 6月18日 | 7月10日-13日 |
 | 北京大学 | [前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=595) | 6月6日 | 7月10日-13日 |
 |  | [信息工程学院（深圳）](http://www.ece.pku.edu.cn/2018/anotice_0430/2155.html) | 6月10日 | 7月18日-21日 |
+| | [信息科学技术学院](http://eecs.pku.edu.cn/personnel/YJS/RecruitStudents/6805.shtml) | 6月12日 | 7月16日-18日 |
 | 中国科学院 | [沈阳计算机技术研究所](http://www.eeban.com/forum.php?mod=viewthread&tid=36581&extra=page%3D1&_dsign=c8518f9e) | 6月30日 | 7月16日-20日 |
 |  | [计算机网络信息中心](http://www.cnic.cas.cn/yjsjy/tzgg/201804/t20180423_5000655.html) | 6月22日 | 7月16日-20日 |
 | 复旦大学 | [大数据学院](http://www.sds.fudan.edu.cn/wp/?p=1776) | 6月15日 | 7月8日-12日 |
@@ -47,7 +48,7 @@
 |                  | [软件学院](http://www.thss.tsinghua.edu.cn/publish/soft/3670/index.html) |        无         |            无             | [已通知](http://www.thss.tsinghua.edu.cn/publish/soft/3670/2018/20180425140246849832299/20180425140246849832299_.html) |
 |                  | [交叉信息研究院](http://admission.iiis.tsinghua.edu.cn/2017/) |      3月28日      |          6月3日           |    [已通知](http://admission.iiis.tsinghua.edu.cn/2018/)     |
 |                  | [网络运行与管理技术研究室](http://www.eeban.com/thread-2017-1-1.html) |       特殊        |           特殊            |                              -                               |
-|     北京大学     |                      信息科学与技术学院                      |        无         |            无             |                              -                               |
+|     北京大学     |                      信息科学与技术学院                      |        无         |            无             | [已通知](http://eecs.pku.edu.cn/personnel/YJS/RecruitStudents/6805.shtml) |
 |                  | [计算机科学技术研究所](http://www.icst.pku.edu.cn/index.php?s=/Home/Article/detail/id/479.html) |      7月6日       |            无             |                                                              |
 |                  | [软件与微电子学院]((http://www.ss.pku.edu.cn/index.php/admission/admnotice/3277-%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E4%B8%8E%E5%BE%AE%E7%94%B5%E5%AD%90%E5%AD%A6%E9%99%A2%E5%85%B3%E4%BA%8E%E4%B8%BE%E5%8A%9E2017%E5%B9%B4%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%80%E7%BA%A7%E5%AD%A6%E7%A7%91%E4%BC%98%E7%A7%80%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A4%8F%E4%BB%A4%E8%90%A5%E7%9A%84%E9%80%9A%E7%9F%A5)) |      5月26日      |       7月10日-12日        |                                                              |
 |                  | [前沿交叉学科研究院<br />大数据科学研究中心](http://www.bibdr.org/nd.jsp?id=84#_np=2_370) |      4月21日      |        7月4日-6日         | [已通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=595) |
@@ -169,6 +170,11 @@
 - 官网：http://www.ece.pku.edu.cn/2018/anotice_0430/2155.html
 - 活动时间：7月18日-21日
 - 申请时间：6月10日前
+
+#### 信息科学技术学院
+
+- 官网：http://eecs.pku.edu.cn/personnel/YJS/RecruitStudents/6805.shtml
+- 活动时间：7月16日-18日
 
 ### 2017
 
