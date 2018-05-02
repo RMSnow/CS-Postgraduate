@@ -48,6 +48,7 @@
 |                  | [交叉信息研究院](http://admission.iiis.tsinghua.edu.cn/2017/) |      3月28日      |          6月3日           |    [已通知](http://admission.iiis.tsinghua.edu.cn/2018/)     |
 |                  | [网络运行与管理技术研究室](http://www.eeban.com/thread-2017-1-1.html) |       特殊        |           特殊            |                              -                               |
 |     北京大学     |                      信息科学与技术学院                      |        无         |            无             |                              -                               |
+|                  | [计算机科学技术研究所](http://www.icst.pku.edu.cn/index.php?s=/Home/Article/detail/id/479.html) |      7月6日       |            无             |                                                              |
 |                  | [软件与微电子学院]((http://www.ss.pku.edu.cn/index.php/admission/admnotice/3277-%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E4%B8%8E%E5%BE%AE%E7%94%B5%E5%AD%90%E5%AD%A6%E9%99%A2%E5%85%B3%E4%BA%8E%E4%B8%BE%E5%8A%9E2017%E5%B9%B4%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%80%E7%BA%A7%E5%AD%A6%E7%A7%91%E4%BC%98%E7%A7%80%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A4%8F%E4%BB%A4%E8%90%A5%E7%9A%84%E9%80%9A%E7%9F%A5)) |      5月26日      |       7月10日-12日        |                                                              |
 |                  | [前沿交叉学科研究院<br />大数据科学研究中心](http://www.bibdr.org/nd.jsp?id=84#_np=2_370) |      4月21日      |        7月4日-6日         | [已通知](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=595) |
 |                  | [深圳研究院](http://www.ece.pku.edu.cn/admissions/admission/) |      4月28日      |           缺失            | [已通知](http://www.ece.pku.edu.cn/2018/anotice_0430/2155.html) |
@@ -180,6 +181,7 @@
     - 官网：http://www.bibdr.org/nd.jsp?id=84#_np=2_370
     - 2017年7月4日-6日
     - 申请工作从2017年4月21日起开始，申报截止时间为6月4日00：00
+- ​
 - 软件与微电子学院
   - [软件工程一级学科研究生招生常见问题及回答](http://www.ss.pku.edu.cn/index.php/admission/admnotice/3275-%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%80%E7%BA%A7%E5%AD%A6%E7%A7%91%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%9B%E7%94%9F%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%E5%8F%8A%E5%9B%9E%E7%AD%94).
   - 5月26日：[北京大学软件与微电子学院关于举办2017年软件工程一级学科优秀大学生夏令营的通知](http://www.ss.pku.edu.cn/index.php/admission/admnotice/3277-%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E4%B8%8E%E5%BE%AE%E7%94%B5%E5%AD%90%E5%AD%A6%E9%99%A2%E5%85%B3%E4%BA%8E%E4%B8%BE%E5%8A%9E2017%E5%B9%B4%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E4%B8%80%E7%BA%A7%E5%AD%A6%E7%A7%91%E4%BC%98%E7%A7%80%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A4%8F%E4%BB%A4%E8%90%A5%E7%9A%84%E9%80%9A%E7%9F%A5).
