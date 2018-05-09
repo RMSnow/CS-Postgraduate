@@ -2,7 +2,8 @@
 
 ## News
 
-- **本项目的固定更新时间为：周三晚、周六晚（约在22点-24点）；其余时间段内，视情况更新。** 最新更改过的信息将用`(News!)`标识。
+- **本项目的固定更新时间为：周三晚、周六晚（约在22点-24点）；其余时间段内，视情况更新。**  
+- 最新更改过的信息将用`(New!)`标识。
 - 旧版文档可参见[这里](https://github.com/RMSnow/CS-Postgraduate/blob/master/README_old.md)，已不再更新。现只对[本文档](https://github.com/RMSnow/CS-Postgraduate/blob/master/README.md)（即旧版文档中的`Overview`）进行更新与维护。
 
 ## Websites
