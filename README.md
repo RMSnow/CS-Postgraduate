@@ -2,7 +2,7 @@
 
 ## News
 
-- **本项目的固定更新时间为：周三晚、周六晚（约在22点-24点）；其余时间段内，视情况更新。**
+- **本项目的固定更新时间为：周三晚、周六晚（约在22点-24点）；其余时间段内，视情况更新。**最新更改过的信息将用`(News!)`标识。
 - 旧版文档可参见[这里](https://github.com/RMSnow/CS-Postgraduate/blob/master/README_old.md)，已不再更新。现只对[本文档](https://github.com/RMSnow/CS-Postgraduate/blob/master/README.md)（即旧版文档中的`Overview`）进行更新与维护。
 
 ## Websites
@@ -33,7 +33,7 @@
 |              | [交叉信息研究院](http://admission.iiis.tsinghua.edu.cn/2018/) |   5月15日    |  6月9日-10日   |
 | | [软件学院](http://www.thss.tsinghua.edu.cn/publish/soft/3670/2018/20180425140246849832299/20180425140246849832299_.html) | 5月15日 | 6月9日-10日 |
 | | [深圳研究院-自动化学科](http://219.223.190.43/publish/sz/293/2018/20180427105015415645904/20180427105015415645904_.html) | 6月18日 | 7月10日-13日 |
-| | [生物信息学研究部](http://bioinfo.au.tsinghua.edu.cn/zh/admissions/) | 5月31日 | 7月9日-11日 |
+|  | [生物信息学研究部](http://bioinfo.au.tsinghua.edu.cn/zh/admissions/) **(New!)** | 5月31日 | 7月9日-11日 |
 | 北京大学 | [前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=595) | 6月6日 | 7月10日-13日 |
 |  | [信息工程学院（深圳）](http://www.ece.pku.edu.cn/2018/anotice_0430/2155.html) | 6月10日 | 7月18日-21日 |
 | | [信息科学技术学院](http://eecs.pku.edu.cn/personnel/YJS/RecruitStudents/6805.shtml) | 6月12日 | 7月16日-18日 |
@@ -44,7 +44,7 @@
 |  | [计算机学院<br />软件学院](http://www.cs.fudan.edu.cn/?p=23278) | 6月8日 | 7月9日-13日 |
 | 中国科学技术大学 | [科学岛夏令营](http://www.eeban.com/forum.php?mod=viewthread&tid=36363&extra=page%3D1&_dsign=0633f48b) | - | - |
 | 上海交通大学 | [ 电子信息与电气工程学院](http://yjwb.seiee.sjtu.edu.cn/yjwb/info/13836.htm) | 5月20日（直博）<br />6月24日（直硕） | 6月9日（直博）<br />7月（直硕） |
-| 中国人民大学 | [信息学院](http://info.ruc.edu.cn/notice_convert_detail.php?id=1852) | 6月1日 | 7月6日-8日 |
+| 中国人民大学 | [信息学院](http://info.ruc.edu.cn/notice_convert_detail.php?id=1852) **(New!)** | 6月1日 | 7月6日-8日 |
 
 ## 2017
 
