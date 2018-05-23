@@ -48,6 +48,7 @@
 | | [计算技术研究所](http://www.ict.ac.cn/shye/tzgg/201805/t20180508_5008632.html) | 6月17日 | 7月15日-20日 |
 | | [软件研究所](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/201804/t20180428_5004800.html) | 6月20日 | 7月9日-13日 |
 | | [深圳先进技术研究院](http://www.siat.cas.cn/yjsjy2016/zsjs2016/201805/t20180503_5005996.html) | 7月1日 | 7月9日-13日 |
+| | [信息工程研究所](http://www.iie.cas.cn/yjsjy_101173/yjszxtz/201804/t20180424_5001226.html) **(New!)** | 6月18日 | 7月8日-14日<br />7月15日-21日 |
 | 复旦大学 | [大数据学院](http://www.sds.fudan.edu.cn/wp/?p=1776) | 6月15日 | 7月8日-12日 |
 |  | [计算机学院<br />软件学院](http://www.cs.fudan.edu.cn/?p=23278) | 6月8日 | 7月9日-13日 |
 | 中国科学技术大学 | [科学岛夏令营](http://www.eeban.com/forum.php?mod=viewthread&tid=36363&extra=page%3D1&_dsign=0633f48b) | - | - |
@@ -79,7 +80,7 @@
 |    中国科学院    | [计算技术研究所](http://www.eeban.com/thread-2023-1-1.html)  |      5月15日      |       7月17日-23日        | [已通知](http://www.ict.ac.cn/shye/tzgg/201805/t20180508_5008632.html) |
 |                  |  [自动化研究所](http://www.eeban.com/thread-2021-1-1.html)   |      5月9日       | 7月7日-12日，7月23日-28日 | [已通知](http://www.ia.cas.cn/yjsjy/zs/sszs/201805/t20180503_5006085.html) |
 |                  |   [软件研究所](http://www.eeban.com/thread-2838-1-1.html)    |      5月10日      |       7月17日-22日        | [已通知](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/201804/t20180428_5004800.html) |
-|                  | [信工所信安国重](http://www.eeban.com/thread-6443-1-1.html)  |      5月31日      |      7月24日-8月4日       |                                                              |
+|                  | [信工所信安国重](http://www.eeban.com/thread-6443-1-1.html)  |      5月31日      |      7月24日-8月4日       |                              -                               |
 |                  | [空间应用工程与技术中心](http://www.eeban.com/thread-2833-1-1.html) |        5月        |        7月9日-13日        |                                                              |
 |                  |   [深圳先进院](http://www.eeban.com/thread-2020-1-1.html)    |    7月1日之前     |          7月中旬          | [已通知](http://www.siat.cas.cn/yjsjy2016/zsjs2016/201805/t20180503_5005996.html) |
 |     浙江大学     | [计算机科学与技术学院](http://www.cs.zju.edu.cn/chinese/redir.php?catalog_id=101914&object_id=697448) |      5月15日      |    暑期实习生（直博）     | [已通知](http://www.cs.zju.edu.cn/chinese/redir.php?catalog_id=101914&object_id=709517) |
