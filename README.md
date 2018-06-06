@@ -41,14 +41,14 @@
 | 北京大学 | [前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=595) | 6月6日 | 7月10日-13日 |
 |  | [信息工程学院（深圳）](http://www.ece.pku.edu.cn/2018/anotice_0430/2155.html) | 6月10日 | 7月18日-21日 |
 | | [信息科学技术学院](http://eecs.pku.edu.cn/personnel/YJS/RecruitStudents/) | 6月1日-6月10日 | 7月16日-18日 |
-| | [软件与微电子学院](http://www.ss.pku.edu.cn/index.php/admission/admnotice/3607-%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E4%B8%8E%E5%BE%AE%E7%94%B5%E5%AD%90%E5%AD%A6%E9%99%A2%E5%85%B3%E4%BA%8E%E4%B8%BE%E5%8A%9E2018%E5%B9%B4%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%AD%A6%E7%A7%91%E4%BC%98%E7%A7%80%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A4%8F%E4%BB%A4%E8%90%A5%E7%9A%84%E9%80%9A%E7%9F%A5) **(New!)** | 6月10日 | 7月18日-20日 |
+| | [软件与微电子学院](http://www.ss.pku.edu.cn/index.php/admission/admnotice/3607-%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E8%BD%AF%E4%BB%B6%E4%B8%8E%E5%BE%AE%E7%94%B5%E5%AD%90%E5%AD%A6%E9%99%A2%E5%85%B3%E4%BA%8E%E4%B8%BE%E5%8A%9E2018%E5%B9%B4%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%AD%A6%E7%A7%91%E4%BC%98%E7%A7%80%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%A4%8F%E4%BB%A4%E8%90%A5%E7%9A%84%E9%80%9A%E7%9F%A5) | 6月10日 | 7月18日-20日 |
 | 中国科学院 | [沈阳计算机技术研究所](http://www.eeban.com/forum.php?mod=viewthread&tid=36581&extra=page%3D1&_dsign=c8518f9e) | 6月30日 | 7月16日-20日 |
 |  | [计算机网络信息中心](http://www.cnic.cas.cn/yjsjy/tzgg/201804/t20180423_5000655.html) | 6月22日 | 7月16日-20日 |
 | | [自动化研究所](http://www.ia.cas.cn/yjsjy/zs/sszs/201805/t20180503_5006085.html) | 6月21日 | 7月16日-20日<br />8月20日-24日 |
 | | [计算技术研究所](http://www.ict.ac.cn/shye/tzgg/201805/t20180508_5008632.html) | 6月17日 | 7月15日-20日 |
 | | [软件研究所](http://www.iscas.ac.cn/yjsjy2016/zsxx2016/201804/t20180428_5004800.html) | 6月20日 | 7月9日-13日 |
 | | [深圳先进技术研究院](http://www.siat.cas.cn/yjsjy2016/zsjs2016/201805/t20180503_5005996.html) | 7月1日 | 7月9日-13日 |
-| | [信息工程研究所](http://www.iie.cas.cn/yjsjy_101173/yjszxtz/201804/t20180424_5001226.html) **(New!)** | 6月18日 | 7月8日-14日<br />7月15日-21日 |
+| | [信息工程研究所](http://www.iie.cas.cn/yjsjy_101173/yjszxtz/201804/t20180424_5001226.html) | 6月18日 | 7月8日-14日<br />7月15日-21日 |
 | 复旦大学 | [大数据学院](http://www.sds.fudan.edu.cn/wp/?p=1776) | 6月15日 | 7月8日-12日 |
 |  | [计算机学院<br />软件学院](http://www.cs.fudan.edu.cn/?p=23278) | 6月8日 | 7月9日-13日 |
 | 中国科学技术大学 | [科学岛夏令营](http://www.eeban.com/forum.php?mod=viewthread&tid=36363&extra=page%3D1&_dsign=0633f48b) | - | - |
@@ -60,6 +60,7 @@
 | 北京航空航天大学 | [计算机学院](http://scse.buaa.edu.cn/info/1102/5173.htm) | 6月28日 | 7月13日-15日 |
 |  | [软件学院-武汉宣讲会](http://soft.buaa.edu.cn/info/1085/8813.htm) | 5月26日 |  |
 | 中山大学 | [数据科学与计算机学院](http://sdcs.sysu.edu.cn/content/3984) | 6月10日 | 7月22日-28日 |
+| 武汉大学 | [计算机学院](http://cs.whu.edu.cn/a/bangongdianhuafabu/2018/0518/7078.html)  **(New!)** | 6月15日 | 7月7日-7月9日 |
 
 ## 2017
 
