@@ -37,7 +37,7 @@
 | | [软件学院](http://www.thss.tsinghua.edu.cn/publish/soft/3670/2018/20180425140246849832299/20180425140246849832299_.html) | 5月15日 | 6月9日-10日 |
 | | [深圳研究院-自动化学科](http://219.223.190.43/publish/sz/293/2018/20180427105015415645904/20180427105015415645904_.html) | 6月18日 | 7月10日-13日 |
 |  | [生物信息学研究部](http://bioinfo.au.tsinghua.edu.cn/zh/admissions/) | 5月31日 | 7月9日-11日 |
-| | [计算机科学与技术系](http://www.cs.tsinghua.edu.cn/publish/cs/4723/2018/20180514161615529361362/20180514161615529361362_.html) |  | 7月13日-15日 |
+| | [计算机科学与技术系](http://www.cs.tsinghua.edu.cn/publish/cs/4723/2018/20180514161615529361362/20180514161615529361362_.html) **(New!)** | 6月15日 | 7月13日-15日 |
 | 北京大学 | [前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=595) | 6月6日 | 7月10日-13日 |
 |  | [信息工程学院（深圳）](http://www.ece.pku.edu.cn/2018/anotice_0430/2155.html) | 6月10日 | 7月18日-21日 |
 | | [信息科学技术学院](http://eecs.pku.edu.cn/personnel/YJS/RecruitStudents/) | 6月1日-6月10日 | 7月16日-18日 |
