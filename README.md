@@ -53,7 +53,8 @@
 |  | [计算机学院<br />软件学院](http://www.cs.fudan.edu.cn/?p=23278) | 6月8日 | 7月9日-13日 |
 | 中国科学技术大学 | [科学岛夏令营](http://www.eeban.com/forum.php?mod=viewthread&tid=36363&extra=page%3D1&_dsign=0633f48b) | - | - |
 |  | [计算机科学暑期夏令营](http://xly.ustc.edu.cn/news.php?newsid=580) | 6月15日 | 7月17-20日 |
-| 上海交通大学 | [ 电子信息与电气工程学院](http://yjwb.seiee.sjtu.edu.cn/yjwb/info/13836.htm) | 5月20日（直博）<br />6月24日（直硕） | 6月9日（直博）<br />7月（直硕） |
+| 上海交通大学 | [ 电子信息与电气工程学院](http://www.seiee.sjtu.edu.cn/yjb/info/13835.htm) | 5月20日（直博）<br />6月24日（直硕） |  |
+|  | [软件学院](http://www.se.sjtu.edu.cn/notice/noticedetail.aspx?id=7173) **(New!)** | 6月24日 | 7月15日-19日 |
 | 中国人民大学 | [信息学院](http://info.ruc.edu.cn/notice_convert_detail.php?id=1852) | 6月1日 | 7月6日-8日 |
 | 浙江大学 | [信息与电子工程学院](http://www.isee.zju.edu.cn/redir.php?catalog_id=26351&object_id=571917) | 6月24日 | 7月24日-26日 |
 |  | [计算机科学与技术学院](http://www.cs.zju.edu.cn/chinese/redir.php?catalog_id=101914&object_id=709517) | 6月15日 | 直博-暑期实习 |
