@@ -37,7 +37,7 @@
 | | [软件学院](http://www.thss.tsinghua.edu.cn/publish/soft/3670/2018/20180425140246849832299/20180425140246849832299_.html) | 5月15日 | 6月9日-10日 |
 | | [深圳研究院-自动化学科](http://219.223.190.43/publish/sz/293/2018/20180427105015415645904/20180427105015415645904_.html) | 6月18日 | 7月10日-13日 |
 |  | [生物信息学研究部](http://bioinfo.au.tsinghua.edu.cn/zh/admissions/) | 5月31日 | 7月9日-11日 |
-| | [计算机科学与技术系](http://www.cs.tsinghua.edu.cn/publish/cs/4723/2018/20180514161615529361362/20180514161615529361362_.html) **(New!)** | 6月15日 | 7月13日-15日 |
+| | [计算机科学与技术系](http://www.cs.tsinghua.edu.cn/publish/cs/4723/2018/20180514161615529361362/20180514161615529361362_.html) | 6月15日 | 7月13日-15日 |
 | 北京大学 | [前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=595) | 6月6日 | 7月10日-13日 |
 |  | [信息工程学院（深圳）](http://www.ece.pku.edu.cn/2018/anotice_0430/2155.html) | 6月10日 | 7月18日-21日 |
 | | [信息科学技术学院](http://eecs.pku.edu.cn/personnel/YJS/RecruitStudents/) | 6月1日-6月10日 | 7月16日-18日 |
@@ -54,14 +54,14 @@
 | 中国科学技术大学 | [科学岛夏令营](http://www.eeban.com/forum.php?mod=viewthread&tid=36363&extra=page%3D1&_dsign=0633f48b) | - | - |
 |  | [计算机科学暑期夏令营](http://xly.ustc.edu.cn/news.php?newsid=580) | 6月15日 | 7月17-20日 |
 | 上海交通大学 | [ 电子信息与电气工程学院](http://www.seiee.sjtu.edu.cn/yjb/info/13835.htm) | 5月20日（直博）<br />6月24日（直硕） |  |
-|  | [软件学院](http://www.se.sjtu.edu.cn/notice/noticedetail.aspx?id=7173) **(New!)** | 6月24日 | 7月15日-19日 |
+|  | [软件学院](http://www.se.sjtu.edu.cn/notice/noticedetail.aspx?id=7173) | 6月24日 | 7月15日-19日 |
 | 中国人民大学 | [信息学院](http://info.ruc.edu.cn/notice_convert_detail.php?id=1852) | 6月1日 | 7月6日-8日 |
 | 浙江大学 | [信息与电子工程学院](http://www.isee.zju.edu.cn/redir.php?catalog_id=26351&object_id=571917) | 6月24日 | 7月24日-26日 |
 |  | [计算机科学与技术学院](http://www.cs.zju.edu.cn/chinese/redir.php?catalog_id=101914&object_id=709517) | 6月15日 | 直博-暑期实习 |
 | 北京航空航天大学 | [计算机学院](http://scse.buaa.edu.cn/info/1102/5173.htm) | 6月28日 | 7月13日-15日 |
 |  | [软件学院-武汉宣讲会](http://soft.buaa.edu.cn/info/1085/8813.htm) | 5月26日 |  |
 | 中山大学 | [数据科学与计算机学院](http://sdcs.sysu.edu.cn/content/3984) | 6月10日 | 7月22日-28日 |
-| 武汉大学 | [计算机学院](http://cs.whu.edu.cn/a/bangongdianhuafabu/2018/0518/7078.html)  **(New!)** | 6月15日 | 7月7日-7月9日 |
+| 武汉大学 | [计算机学院](http://cs.whu.edu.cn/a/bangongdianhuafabu/2018/0518/7078.html) | 6月15日 | 7月7日-7月9日 |
 
 ## 2017
 
