@@ -2,9 +2,8 @@
 
 ## News
 
-- **本项目的固定更新时间为：周三晚、周六晚（约在22点-24点）；其余时间段内，视情况更新。**  
-- 最新更改过的信息将用`(New!)`标识。
-- 旧版文档可参见[这里](https://github.com/RMSnow/CS-Postgraduate/blob/master/README_old.md)，已不再更新。现只对[本文档](https://github.com/RMSnow/CS-Postgraduate/blob/master/README.md)（即旧版文档中的`Overview`）进行更新与维护。
+- 由于时间和精力所限，此repo已不再维护。关于2018年之后的保研夏令营、保研推免的通知，可关注[保研论坛](http://www.eeban.com/)；对于各高校的CS科研排名，可查阅[CSRankings: Computer Science Rankings](http://csrankings.org/#/fromyear/2007/toyear/2018/index?all)，此排行榜较为权威。
+- 当然，也欢迎志愿者`fork`与`contribute`。
 
 ## Websites
 
